@@ -1,0 +1,10 @@
+GA-CCRi would like Neal to investigate the use of Multi-Modal Large Language Models (LLMs) for the imporovment of convential object detection models. 
+
+We expect Neal to leverage open source models and datasets to use and/or train models for both conventional detection and LLM detection. However, if this work incorporates sensative information, that will need to be redacted before the report is submitted. 
+
+He will need to measure the performance of both types of models individually, which includes
+	* standard metrics for convolutional object detections (P, R, F1)
+	* New or existing metric for the LLM output, which may require natural language processing, clustering, or some other technique to identify true positives, false positives, false, negatives, true negatives. 
+	
+Additionally he will investigate ways to use LLM-generated captions to enhance the object detection metrics, either through explainability, improvement in overall performance, or robustness to adversarial attacks. 
+
