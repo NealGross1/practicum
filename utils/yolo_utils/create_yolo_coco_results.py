@@ -18,7 +18,9 @@ if __name__ == "__main__":
     dataset_name = 'DOTA_dataset_512'
     coco_dir = f'{dataset_dir}/{dataset_name}'
     eval_coco = f'{coco_dir}/val_coco.json'
+    #eval_coco = f'{coco_dir}/plane_ship_aug_val_coco.json'
     output_dir = coco_dir
+    #output_dir = f'{coco_dir}/plane_ship_aug_results'
     model_dir = 'E:/models'
     model_name = 'DOTA_dataset_512_yolov8m_bb_aug'
     model_path = f'{model_dir}/{model_name}/weights/best.pt'
@@ -29,7 +31,7 @@ if __name__ == "__main__":
 
     create_yolo_coco_results(model, 
                                 eval_coco, 
-                                coco_dir, 
+                                output_dir, 
                                 images_dir = None, 
                                 #transforms = torch.Compose([torch.ToTensor()]),
                                 batch_size = batch_size, 
