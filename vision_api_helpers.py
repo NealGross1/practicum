@@ -1,4 +1,5 @@
 ## supporting functions
+#https://community.openai.com/t/how-to-load-a-local-image-to-gpt4-vision-using-api/533090
 import base64, textwrap, time, openai, os, io
 from PIL import Image  # Pillow image library
 
