@@ -1,3 +1,0 @@
-IMAGETOCAPTION:
-  MODEL: Salesforce/blip-image-captioning-large
-  TYPE: image-to-text
