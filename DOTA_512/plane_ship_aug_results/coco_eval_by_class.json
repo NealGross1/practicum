@@ -1,0 +1,18 @@
+{
+    "small-vehicle": -1.0,
+    "large-vehicle": -1.0,
+    "ship": 0.36651018264860874,
+    "harbor": -1.0,
+    "baseball-diamond": -1.0,
+    "soccer-ball-field": -1.0,
+    "ground-track-field": -1.0,
+    "swimming-pool": -1.0,
+    "roundabout": -1.0,
+    "tennis-court": -1.0,
+    "basketball-court": -1.0,
+    "plane": 0.42306784381230644,
+    "helicopter": -1.0,
+    "bridge": -1.0,
+    "storage-tank": -1.0,
+    "container-crane": -1.0
+}

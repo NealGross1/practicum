@@ -1,0 +1,50 @@
+{
+    "1": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "2": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "3": {
+        "Precision": 0.9119145513049696,
+        "Recall": 0.6750066160903316
+    },
+    "4": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "5": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "8": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "9": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "12": {
+        "Precision": 0.9679844097995546,
+        "Recall": 0.6157251638037896
+    },
+    "13": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "14": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "15": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    },
+    "16": {
+        "Precision": 0.0,
+        "Recall": 0.0
+    }
+}

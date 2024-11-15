@@ -1,0 +1,21 @@
+names:
+- small-vehicle
+- large-vehicle
+- ship
+- harbor
+- baseball-diamond
+- soccer-ball-field
+- ground-track-field
+- swimming-pool
+- roundabout
+- tennis-court
+- basketball-court
+- plane
+- helicopter
+- bridge
+- storage-tank
+- container-crane
+nc: 16
+path: E:/datasets/DOTA_dataset_512
+train: train/images
+val: val/images

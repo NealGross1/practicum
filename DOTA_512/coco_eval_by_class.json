@@ -1,0 +1,18 @@
+{
+    "small-vehicle": 0.27897954349434606,
+    "large-vehicle": 0.504344106283067,
+    "ship": 0.5217728291222975,
+    "harbor": 0.40086609324738615,
+    "baseball-diamond": 0.48592150103566906,
+    "soccer-ball-field": 0.4598036950435668,
+    "ground-track-field": 0.497091800563984,
+    "swimming-pool": 0.2646895683047646,
+    "roundabout": 0.4125408473987218,
+    "tennis-court": 0.7263363370632997,
+    "basketball-court": 0.5841551776816963,
+    "plane": 0.6707549277104476,
+    "helicopter": 0.2955621457797307,
+    "bridge": 0.2576365203840239,
+    "storage-tank": 0.44125446335650004,
+    "container-crane": 0.007768469154607768
+}
