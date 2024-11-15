@@ -8,8 +8,6 @@ from PIL import Image
 import numpy as np
 import random
 
-
-
 class DropPixels(A.ImageOnlyTransform):
     def __init__(self, drop_fraction=0.01, always_apply=False, p=1.0):
         super(DropPixels, self).__init__(always_apply, p)

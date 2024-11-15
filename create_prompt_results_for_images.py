@@ -24,7 +24,7 @@ if __name__ == "__main__":
     dataset_name = 'DOTA_dataset_512'
     coco_dir = f'{dataset_dir}/{dataset_name}'
     coco_file = f'{coco_dir}/YOLO_coco_results_annots.json'
-    prompts = ["A picture of", "A photo of", "There are", "The image quality is"]
+    prompts = ["A picture of", "A photo of", "There are", "The image quality is",""]
 
     with open(coco_file, 'r') as f:
         coco_json = json.load(f)
